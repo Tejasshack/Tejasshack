@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejasshack
 - 👀 I’m interested in ... Ethical hacking, DevOps, Cloud 
-- 🌱 I’m currently learning ... JavaScript
+- 🌱 I’m currently learning ...Java and BlockChain 
 - 💞️ I’m looking to collaborate on ... Shell Scripting
 - 📫 How to reach me ... Email:- tejaswi376@gmail.com
 

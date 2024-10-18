@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly see
 
 ## 🌱 About Me
 
+
 - **Interests**: Ethical hacking, DevOps, Cloud Computing
-- **Currently Learning**: Java, Blockchain
-- **Looking to Collaborate On**: Shell Scripting
+- **Currently Doing**: Express Js , React Js , MongoDB , NodeJs , Java, Blockchain
+- **Looking to Collaborate On**: Shell Scripting , AWS CLOUD
 
 ## 🚀 Skills
 
@@ -18,7 +19,6 @@ Welcome to my GitHub profile! I'm passionate about technology and constantly see
 - Linux
 
 ### Libraries and Frameworks
-- SpringBoot
 - ReactJS
 - Node.js
 - Express.js

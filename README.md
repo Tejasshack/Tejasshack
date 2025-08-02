@@ -6,7 +6,7 @@ Welcome to my GitHub! 👨‍💻 I'm a passionate Full-Stack Developer who enjo
 
 ## 🌱 About Me
 
-- 💼 Full-Stack Developer at [Top5Shots.com](https://www.top5shots.com)
+- 💼 Full-Stack Developer 
 - 🎨 UI/UX Designer with a focus on performance and user experience
 - ☁️ Cloud Enthusiast – AWS Certified Cloud Practitioner
 - 💡 Tech Explorer – constantly experimenting with emerging tools

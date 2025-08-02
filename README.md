@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Tejasshack (Tejaswi Rastogi)
 
-Welcome to my GitHub! 👨‍💻 I'm a passionate Full-Stack Developer who enjoys building scalable web applications and exploring new tech stacks.
+Welcome to my GitHub! 👨‍💻 Curious Full-Stack Developer who enjoys building scalable web applications and exploring new tech stacks.
 
 ---
 
